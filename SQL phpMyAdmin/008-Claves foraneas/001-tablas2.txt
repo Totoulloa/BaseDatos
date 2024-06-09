@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS empresa. Hojal (codigo varchar(2), provincia varchar(22)) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;;

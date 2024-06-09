@@ -1,0 +1,1 @@
+CREATE TRIGGER insertar_pedido AFTER INSERT ON pedidos FOR EACH ROW BEGIN INSERT INTO registrosn VALUES(NULL,'INSERT',NOW(),'pedidos',NEW.Identificador); END;;

@@ -1,0 +1,1 @@
+UPDATE `producto` SET `categoria` = '';

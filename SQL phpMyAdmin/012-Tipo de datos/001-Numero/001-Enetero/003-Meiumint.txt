@@ -1,0 +1,3 @@
+3 byte
+16777216 valores sin signo
+16777216 con signo

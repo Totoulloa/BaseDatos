@@ -1,0 +1,1 @@
+ALTER TABLE `pedidos` ADD `comentario` TEXT NOT NULL AFTER `pagado`;

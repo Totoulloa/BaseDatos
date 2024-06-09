@@ -1,0 +1,1 @@
+mysqldump.exe -u empresa -p empresa > c:/copiadeseguridad/20240123empresa.sql

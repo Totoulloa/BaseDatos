@@ -1,0 +1,1 @@
+CREATE TABLE `centro de formacion`.`matricula` (`Identificador` INT(255) NOT NULL AUTO_INCREMENT , `nombre` VARCHAR(255) NOT NULL , `alumno` INT(255) NOT NULL , `fecha` DATE NOT NULL , PRIMARY KEY (`Identificador`)) ENGINE = InnoDB;

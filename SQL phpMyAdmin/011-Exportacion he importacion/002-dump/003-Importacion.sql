@@ -1,0 +1,1 @@
+mysql.exe -u empre -p empre < c:/copiadeseguridad/20240123empresa.sql

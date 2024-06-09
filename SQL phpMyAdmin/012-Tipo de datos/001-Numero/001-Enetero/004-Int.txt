@@ -1,0 +1,3 @@
+4 byte
+4294967296 valores sin signo
+4294967296 Valores con signo

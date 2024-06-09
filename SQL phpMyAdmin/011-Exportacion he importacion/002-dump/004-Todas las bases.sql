@@ -1,0 +1,1 @@
+mysqldump.exe -u cursoaplicaciones -p --all-databases > c:/copiadeseguridad/20240123copiadeseguridad.sql
